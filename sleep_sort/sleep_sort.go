@@ -1,3 +1,4 @@
+//sorts an inetger array using sleep sort algorithm
 package sleep_sort
 
 import (
